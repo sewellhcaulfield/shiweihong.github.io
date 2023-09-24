@@ -35,6 +35,7 @@ Open source:
 
 ##### Out-of-distribution (Domain) generalization and adaptation for distribution shift
 
+- **[NeurIPS'23]** Generating and Distilling Discrete Adversarial Examples from Large-Scale Models. Andy Zhou, Jindong Wang, Yu-Xiong Wang, Haohan Wang.
 - **[ICCV'23]** Improving Generalization of Adversarial Training via Robust Critical Fine-Tuning. Kaijie Zhu, Xixu Hu, Jindong Wang, Xing Xie, Ge Yang.
 - **[ICLR'23]** [Out-of-distribution Representation Learning for Time Series Classification](https://arxiv.org/abs/2209.07027). Wang Lu, Jindong Wang, Xinwei Sun, Yiqiang Chen, and Xing Xie.
 - **[KDD'23]** [Domain-Specific Risk Minimization for Out-of-Distribution Generalization](https://arxiv.org/pdf/2208.08661.pdf). YiFan Zhang, Jindong Wang, Jian Liang, Zhang Zhang, Baosheng Yu, Liang Wang, Xing Xie, and Dacheng Tao.
